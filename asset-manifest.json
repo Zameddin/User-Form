@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/User-Form/static/css/main.6f0122d2.css",
+    "main.js": "/User-Form/static/js/main.c1582174.js",
+    "static/js/787.7c9fc3c3.chunk.js": "/User-Form/static/js/787.7c9fc3c3.chunk.js",
+    "index.html": "/User-Form/index.html",
+    "main.6f0122d2.css.map": "/User-Form/static/css/main.6f0122d2.css.map",
+    "main.c1582174.js.map": "/User-Form/static/js/main.c1582174.js.map",
+    "787.7c9fc3c3.chunk.js.map": "/User-Form/static/js/787.7c9fc3c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f0122d2.css",
+    "static/js/main.c1582174.js"
+  ]
+}
